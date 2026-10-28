@@ -1,0 +1,5 @@
+# Временные файлы Word
+~$*.docx
+*.tmp
+.DS_Store
+Thumbs.db
