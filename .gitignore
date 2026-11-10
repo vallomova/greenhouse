@@ -1,5 +1,23 @@
-# Временные файлы Word
+
+
+# Временные файлы редакторов и офисных приложений
 ~$*.docx
+~$*.xlsx
+~$*.pptx
 *.tmp
+*.bak
+*.swp
 .DS_Store
 Thumbs.db
+
+# Среды разработки
+.vscode/
+.idea/
+.vs/
+bin/
+obj/
+__pycache__/
+*.pyc
+
+# Локальные настройки
+.env
